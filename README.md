@@ -1,3 +1,6 @@
+<p align="center">
+  <img  src="./assets/BootCamp-GoStack.png">
+</p>
 <h3 align="center"> Desafio 2 - Conceitos Node.js </h3>  
 <p>  
 <p>  
@@ -9,6 +12,8 @@ Neste desafio é proposto uma aplicação simples para colocarmos em prática co
 - Rotas;
 - Métodos HTTP (GET, POST, PUT, DELETE);
 - Protocolo de comunicação (JSON);
+
+[Detalhes do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)  
 
 ## Como testar:  
 Neste projeto foi utilizado o yarn, então caso ainda não tenha, siga este [guia parar instalação](https://classic.yarnpkg.com/en/docs/install) do mesmo.  
